@@ -15,12 +15,12 @@ Apasionado por la tecnología y en constante búsqueda de lo desconocido. Soy In
 ## 🌱 Formación y Herramientas
 - **Data Science & Analytics:** Explorando y aplicando técnicas avanzadas en análisis de datos.
 - **Lenguajes:** Python, SQL, C, C++
-- **Tecnologías de Automatización:** Robots, PLC, y sistemas neumáticos.
+- **Tecnologías de Automatización:** Robots, PLC, y sistemas inteligentes y vision computarizada.
 
-## 🚀 Proyecto Destacado: *El Enigma Automatizado*
-Un experimento que fusiona mi experiencia en automatización con la intriga del análisis de datos.  
-[Explora el proyecto aquí](https://github.com/tuusuario/proyecto-misterioso)
+## 🚀 Proyecto Destacado: *Game Success Insights*
+Este proyecto tiene como objetivo analizar los datos globales de ventas de videojuegos, reseñas de usuarios y expertos, géneros, plataformas y clasificaciones ESRB para identificar patrones clave que determinan el éxito de un juego. Al aprovechar este análisis, podemos identificar proyectos prometedores, optimizar campañas de marketing y predecir tendencias del mercado.
+[Explora el proyecto aquí](https://github.com/Sixale730/Game_Success_Insights)
 
 ## 📫 ¿Quieres Conectar?
 Si te intriga descubrir más sobre mis proyectos y el misterio que encierra la automatización y el análisis de datos, ¡conectemos!  
-[LinkedIn](https://www.linkedin.com/in/tuusuario) • [Envía un Correo](mailto:tuemail@example.com)
+[LinkedIn](https://www.linkedin.com/in/julio-alexis-gonzález-villa-58690920a) • [Envíame un Correo](mailto:julio.alex1390@gmail.com)
